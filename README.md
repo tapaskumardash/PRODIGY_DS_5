@@ -17,28 +17,6 @@ Understanding the factors contributing to traffic accidents is crucial for impro
 - **Pattern Recognition**: Explore patterns related to road and weather conditions, as well as timing of accidents.
 - **Total Death Timing Ratio**: Analyze the total death timing ratio for each state based on different timing categories.
 
-## Usage
-
-1. Clone the repository:
-
-    ```
-    git clone https://github.com/your-username/traffic-accident-analysis.git
-    ```
-
-2. Navigate to the project directory:
-
-    ```
-    cd traffic-accident-analysis
-    ```
-
-3. Run the Python script:
-
-    ```
-    python analyze_traffic_accidents.py
-    ```
-
-4. View the generated visualizations to gain insights into traffic accident patterns.
-
 ## Requirements
 
 - Python 3.x
