@@ -19,7 +19,7 @@ Understanding the factors contributing to traffic accidents is crucial for impro
 
 ## Requirements
 
-- Python 3.x
+- Python 3 or above
 - pandas
 - matplotlib
 - seaborn
