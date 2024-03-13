@@ -24,5 +24,4 @@ Understanding the factors contributing to traffic accidents is crucial for impro
 - matplotlib
 - seaborn
 
-Install the required packages using pip:
-
+Install the required packages using pip
